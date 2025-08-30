@@ -1,0 +1,19 @@
+📁 HERBIE AVATAR IMAGES
+========================
+
+Place your H.E.R.B.I.E. robot avatar images here:
+
+RECOMMENDED FILES:
+- herbie-main-avatar.png (200x200px) - Main HERBIE face/portrait
+- herbie-happy.png (200x200px) - Happy HERBIE expression  
+- herbie-thinking.png (200x200px) - HERBIE in thinking mode
+- herbie-alert.png (200x200px) - HERBIE in alert/danger mode
+- herbie-confused.png (200x200px) - HERBIE confused expression
+
+FORMAT: PNG with transparent background
+SIZE: 200x200px or higher (square aspect ratio)
+
+These will be used for:
+- Chat interface avatar
+- Emotion-based avatar changes
+- Profile pictures

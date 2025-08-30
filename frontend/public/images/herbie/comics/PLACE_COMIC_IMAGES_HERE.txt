@@ -1,0 +1,20 @@
+📁 HERBIE COMIC IMAGES
+======================
+
+Place your H.E.R.B.I.E. Fantastic Four comic images here:
+
+RECOMMENDED FILES:
+- herbie-fantastic-four-team.jpg - HERBIE with the Fantastic Four team
+- herbie-baxter-building.jpg - HERBIE in the Baxter Building
+- herbie-action-scene.jpg - HERBIE in action/adventure scene
+- herbie-with-reed-richards.jpg - HERBIE assisting Reed Richards
+- herbie-cosmic-space.jpg - HERBIE in space/cosmic setting
+
+FORMAT: JPG or PNG
+SIZE: Any resolution (will be scaled automatically)
+
+These will be used for:
+- Background decorations
+- Loading screens
+- About/info sections
+- Gallery displays

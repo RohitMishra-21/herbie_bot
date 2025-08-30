@@ -1,0 +1,20 @@
+📁 HERBIE BACKGROUND IMAGES
+============================
+
+Place your Fantastic Four/HERBIE themed backgrounds here:
+
+RECOMMENDED FILES:
+- fantastic-four-space.jpg (1920x1080px) - Space/cosmic background
+- baxter-building-interior.jpg (1920x1080px) - Baxter Building interior
+- herbie-lab-background.jpg (1920x1080px) - Scientific lab setting
+- cosmic-energy-bg.jpg (1920x1080px) - Cosmic energy/power background
+- herbie-workspace.jpg (1920x1080px) - HERBIE's workspace/computer area
+
+FORMAT: JPG (for file size efficiency)
+SIZE: 1920x1080px or higher (landscape orientation)
+
+These will be used for:
+- Main chat interface background
+- Welcome screen backgrounds
+- Different themed modes
+- Fullscreen backgrounds
